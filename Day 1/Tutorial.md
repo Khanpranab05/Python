@@ -33,3 +33,6 @@ What is Python used for
 -> It is used to create web applications.
 -> It can be used to handle databases.
 -> It is used in business and accounting to perform complex mathematical operations along with quantitative and qualitative analysis.
+
+
+sgeghueewghewiohewioehwegwgeweiwe;o;woew;he;hw
